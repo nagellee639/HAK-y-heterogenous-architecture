@@ -1,6 +1,6 @@
 # HAK-y-heterogenous-architecture
-Hardware
-Abstraction
-K
--y
+Hardware\n
+Abstraction\n
+K\n
+-y\n
 
